@@ -129,7 +129,7 @@ if show_map:
     """
 
     # APIキーを埋め込む
-    html_code = html_code.replace("YOUR_API_KEY", "AIzaSyBEqOCfxOFJpKEWDszr7edsYqgxIkQ52dQ")
+    html_code = html_code.replace("YOUR_API_KEY", "AIzaSyD1nGnn98TvKSuwxDvTWoebyZg1kV1oLio")
     components.html(html_code, height=600)
 
 with b4:
